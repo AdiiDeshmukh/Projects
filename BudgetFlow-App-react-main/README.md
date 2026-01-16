@@ -327,13 +327,3 @@ This project not only reinforces foundational front-end development skills but a
 ## Getting Started
 
 Follow the installation instructions provided in the initial README section to set up the project on your local machine.
-
-## Contributing
-
-We welcome contributions from the community! Whether it's adding new features, fixing bugs, or improving documentation, your help is appreciated. Please refer to the contributing guidelines for more information.
-
-## Credits
-
-Wireframes and Logo Design: Igor Dinuzzi
-Code: Igor Dinuzzi
-Icons: Fontawesome
